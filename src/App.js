@@ -17,7 +17,7 @@ function Square({ value, onSquareClick }) {
 //   //   //on click show "X"
 //   //   setValue('X');
 //   //   /*
-//   //   alue stores the value and setValue is a function that can be used to change the value. 
+//   //   value stores the value and setValue is a function that can be used to change the value. 
 //   //   The null passed to useState is used as the initial value for this state variable, so value here starts off equal to null.
 
 //   //   */
